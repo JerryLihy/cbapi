@@ -24,6 +24,9 @@ formatter = logging.Formatter("%(asctime)s - %(filename)s[line:%(lineno)d] - %(l
 fh.setFormatter(formatter)
 logger.addHandler(fh)
 
+# key for the crunchbase, removed for security reason
+SELF_KEY = ""
+
 def build_query_content_ppl(name: str = None, query: str = None, updated_since: int = None, page: str = None, locations: str = None, socials: str = None, types: str = None) -> dict:
     '''
     build the dict which contains the content that we want to query for people
@@ -95,7 +98,7 @@ def trigger_api(query_info: dict, query_type: str = 'organizations') -> pd.DataF
 
     headers = {
     'x-rapidapi-host': "crunchbase-crunchbase-v1.p.rapidapi.com",
-    'x-rapidapi-key': "2ce340df43mshf785a3a9047445cp17e61ajsnc9255b2c43d3"
+    'x-rapidapi-key': SELF_KEY
     }
 
     response = requests.request("GET", url, headers=headers, params = query_info)
