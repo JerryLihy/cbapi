@@ -147,7 +147,7 @@ def get_information(info_type: str = 'organizations', to_csv: bool = False, name
         query = build_query_content_org(name, query, updated_since, page, locations, domain_name, organization_types)
     elif info_type == 'people':
         logging.info('searching for people')
-        query = build_query_content_org(name, query, updated_since, page, locations, socials, types)
+        query = build_query_content_ppl(name, query, updated_since, page, locations, socials, types)
     else:
         # invalid searching
         logging.debug('invalid search: not people or organizations')
