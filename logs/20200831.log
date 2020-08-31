@@ -1,0 +1,44 @@
+2020-08-31 17:07:26,237 - cbapi.py[line:176] - INFO: searching for organizations
+2020-08-31 17:07:26,240 - cbapi.py[line:185] - INFO: finish building query string
+2020-08-31 17:07:29,751 - cbapi.py[line:213] - INFO: page number of searched result: 11241
+2020-08-31 17:08:38,888 - cbapi.py[line:179] - INFO: searching for people
+2020-08-31 17:08:38,890 - cbapi.py[line:185] - INFO: finish building query string
+2020-08-31 17:08:43,727 - cbapi.py[line:213] - INFO: page number of searched result: 2
+2020-08-31 17:11:27,862 - cbapi.py[line:179] - INFO: searching for people
+2020-08-31 17:11:27,864 - cbapi.py[line:185] - INFO: finish building query string
+2020-08-31 17:11:29,145 - cbapi.py[line:213] - INFO: page number of searched result: 2
+2020-08-31 17:11:36,291 - cbapi.py[line:176] - INFO: searching for organizations
+2020-08-31 17:11:36,292 - cbapi.py[line:185] - INFO: finish building query string
+2020-08-31 17:11:39,062 - cbapi.py[line:192] - INFO: search result, page: 1
+2020-08-31 17:12:19,592 - cbapi.py[line:179] - INFO: searching for people
+2020-08-31 17:12:19,596 - cbapi.py[line:185] - INFO: finish building query string
+2020-08-31 17:12:20,683 - cbapi.py[line:213] - INFO: page number of searched result: 2
+2020-08-31 17:12:22,545 - cbapi.py[line:176] - INFO: searching for organizations
+2020-08-31 17:12:22,547 - cbapi.py[line:185] - INFO: finish building query string
+2020-08-31 17:12:25,813 - cbapi.py[line:192] - INFO: search result, page: 1
+2020-08-31 17:13:26,480 - cbapi.py[line:179] - INFO: searching for people
+2020-08-31 17:13:26,484 - cbapi.py[line:185] - INFO: finish building query string
+2020-08-31 17:13:29,341 - cbapi.py[line:213] - INFO: page number of searched result: 2
+2020-08-31 17:13:33,060 - cbapi.py[line:176] - INFO: searching for organizations
+2020-08-31 17:13:33,063 - cbapi.py[line:185] - INFO: finish building query string
+2020-08-31 17:13:35,002 - cbapi.py[line:192] - INFO: search result, page: 1
+2020-08-31 17:13:35,034 - cbapi.py[line:176] - INFO: searching for organizations
+2020-08-31 17:13:35,035 - cbapi.py[line:185] - INFO: finish building query string
+2020-08-31 17:13:35,952 - cbapi.py[line:192] - INFO: search result, page: 200
+2020-08-31 17:13:35,955 - cbapi.py[line:201] - INFO: page too large, should be smaller or equal to 14
+2020-08-31 17:13:35,958 - cbapi.py[line:176] - INFO: searching for organizations
+2020-08-31 17:13:35,963 - cbapi.py[line:185] - INFO: finish building query string
+2020-08-31 17:13:37,055 - cbapi.py[line:209] - INFO: no result found
+2020-08-31 17:13:57,833 - cbapi.py[line:179] - INFO: searching for people
+2020-08-31 17:13:57,835 - cbapi.py[line:185] - INFO: finish building query string
+2020-08-31 17:14:00,486 - cbapi.py[line:213] - INFO: page number of searched result: 2
+2020-08-31 17:14:05,630 - cbapi.py[line:176] - INFO: searching for organizations
+2020-08-31 17:14:05,631 - cbapi.py[line:185] - INFO: finish building query string
+2020-08-31 17:14:07,375 - cbapi.py[line:192] - INFO: search result, page: 1
+2020-08-31 17:14:07,405 - cbapi.py[line:176] - INFO: searching for organizations
+2020-08-31 17:14:07,406 - cbapi.py[line:185] - INFO: finish building query string
+2020-08-31 17:14:08,343 - cbapi.py[line:192] - INFO: search result, page: 200
+2020-08-31 17:14:08,345 - cbapi.py[line:201] - INFO: page too large, should be smaller or equal to 14
+2020-08-31 17:14:08,349 - cbapi.py[line:176] - INFO: searching for organizations
+2020-08-31 17:14:08,351 - cbapi.py[line:185] - INFO: finish building query string
+2020-08-31 17:14:09,482 - cbapi.py[line:209] - INFO: no result found
