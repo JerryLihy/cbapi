@@ -1,0 +1,4 @@
+requests==2.18.4
+numpy==1.16.4
+pandas==0.25.3
+multiprocess==0.70.9
